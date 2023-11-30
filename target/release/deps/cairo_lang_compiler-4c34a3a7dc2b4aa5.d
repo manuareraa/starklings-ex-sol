@@ -1,0 +1,10 @@
+/home/manuareraa/Downloads/starklings-cairo1/target/release/deps/cairo_lang_compiler-4c34a3a7dc2b4aa5.rmeta: /home/manuareraa/.cargo/git/checkouts/cairo-f086c7e6d4098a68/bf91ade/crates/cairo-lang-compiler/src/lib.rs /home/manuareraa/.cargo/git/checkouts/cairo-f086c7e6d4098a68/bf91ade/crates/cairo-lang-compiler/src/db.rs /home/manuareraa/.cargo/git/checkouts/cairo-f086c7e6d4098a68/bf91ade/crates/cairo-lang-compiler/src/diagnostics.rs /home/manuareraa/.cargo/git/checkouts/cairo-f086c7e6d4098a68/bf91ade/crates/cairo-lang-compiler/src/project.rs
+
+/home/manuareraa/Downloads/starklings-cairo1/target/release/deps/libcairo_lang_compiler-4c34a3a7dc2b4aa5.rlib: /home/manuareraa/.cargo/git/checkouts/cairo-f086c7e6d4098a68/bf91ade/crates/cairo-lang-compiler/src/lib.rs /home/manuareraa/.cargo/git/checkouts/cairo-f086c7e6d4098a68/bf91ade/crates/cairo-lang-compiler/src/db.rs /home/manuareraa/.cargo/git/checkouts/cairo-f086c7e6d4098a68/bf91ade/crates/cairo-lang-compiler/src/diagnostics.rs /home/manuareraa/.cargo/git/checkouts/cairo-f086c7e6d4098a68/bf91ade/crates/cairo-lang-compiler/src/project.rs
+
+/home/manuareraa/Downloads/starklings-cairo1/target/release/deps/cairo_lang_compiler-4c34a3a7dc2b4aa5.d: /home/manuareraa/.cargo/git/checkouts/cairo-f086c7e6d4098a68/bf91ade/crates/cairo-lang-compiler/src/lib.rs /home/manuareraa/.cargo/git/checkouts/cairo-f086c7e6d4098a68/bf91ade/crates/cairo-lang-compiler/src/db.rs /home/manuareraa/.cargo/git/checkouts/cairo-f086c7e6d4098a68/bf91ade/crates/cairo-lang-compiler/src/diagnostics.rs /home/manuareraa/.cargo/git/checkouts/cairo-f086c7e6d4098a68/bf91ade/crates/cairo-lang-compiler/src/project.rs
+
+/home/manuareraa/.cargo/git/checkouts/cairo-f086c7e6d4098a68/bf91ade/crates/cairo-lang-compiler/src/lib.rs:
+/home/manuareraa/.cargo/git/checkouts/cairo-f086c7e6d4098a68/bf91ade/crates/cairo-lang-compiler/src/db.rs:
+/home/manuareraa/.cargo/git/checkouts/cairo-f086c7e6d4098a68/bf91ade/crates/cairo-lang-compiler/src/diagnostics.rs:
+/home/manuareraa/.cargo/git/checkouts/cairo-f086c7e6d4098a68/bf91ade/crates/cairo-lang-compiler/src/project.rs:

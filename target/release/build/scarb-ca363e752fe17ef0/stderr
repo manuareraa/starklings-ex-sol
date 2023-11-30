@@ -1,0 +1,5 @@
+"curl" "--proto" "=https" "--tlsv1.2" "-fL" "-o" "/home/manuareraa/Downloads/starklings-cairo1/target/release/build/scarb-ca363e752fe17ef0/out/cairo.zip" "https://github.com/starkware-libs/cairo/archive/bf91adecc5a1cb2ced041ba383d7b7c38dd2fa7f.zip"
+  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current
+                                 Dload  Upload   Total   Spent    Left  Speed
+  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0
+100 45784    0 45784    0     0  37710      0 --:--:--  0:00:01 --:--:-- 37710100 3464k    0 3464k    0     0  2152k      0 --:--:--  0:00:01 --:--:-- 8658k

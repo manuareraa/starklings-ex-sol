@@ -1,0 +1,11 @@
+/home/manuareraa/Downloads/starklings-cairo1/target/release/deps/gix_chunk-bca172ecd83802f9.rmeta: /home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/lib.rs /home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/file/mod.rs /home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/file/decode.rs /home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/file/index.rs /home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/file/write.rs
+
+/home/manuareraa/Downloads/starklings-cairo1/target/release/deps/libgix_chunk-bca172ecd83802f9.rlib: /home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/lib.rs /home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/file/mod.rs /home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/file/decode.rs /home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/file/index.rs /home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/file/write.rs
+
+/home/manuareraa/Downloads/starklings-cairo1/target/release/deps/gix_chunk-bca172ecd83802f9.d: /home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/lib.rs /home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/file/mod.rs /home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/file/decode.rs /home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/file/index.rs /home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/file/write.rs
+
+/home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/lib.rs:
+/home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/file/mod.rs:
+/home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/file/decode.rs:
+/home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/file/index.rs:
+/home/manuareraa/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gix-chunk-0.4.4/src/file/write.rs:

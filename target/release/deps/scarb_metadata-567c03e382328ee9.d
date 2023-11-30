@@ -1,0 +1,14 @@
+/home/manuareraa/Downloads/starklings-cairo1/target/release/deps/scarb_metadata-567c03e382328ee9.rmeta: /home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/lib.rs /home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/command/mod.rs /home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/command/internal_command.rs /home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/command/metadata_command.rs /home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/command/scarb_command.rs /home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/version_pin.rs
+
+/home/manuareraa/Downloads/starklings-cairo1/target/release/deps/libscarb_metadata-567c03e382328ee9.rlib: /home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/lib.rs /home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/command/mod.rs /home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/command/internal_command.rs /home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/command/metadata_command.rs /home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/command/scarb_command.rs /home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/version_pin.rs
+
+/home/manuareraa/Downloads/starklings-cairo1/target/release/deps/scarb_metadata-567c03e382328ee9.d: /home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/lib.rs /home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/command/mod.rs /home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/command/internal_command.rs /home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/command/metadata_command.rs /home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/command/scarb_command.rs /home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/version_pin.rs
+
+/home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/lib.rs:
+/home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/command/mod.rs:
+/home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/command/internal_command.rs:
+/home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/command/metadata_command.rs:
+/home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/command/scarb_command.rs:
+/home/manuareraa/.cargo/git/checkouts/scarb-831c32bf23da0a7c/7eb2819/scarb-metadata/src/version_pin.rs:
+
+# env-dep:CARGO_PKG_VERSION_MAJOR=1
