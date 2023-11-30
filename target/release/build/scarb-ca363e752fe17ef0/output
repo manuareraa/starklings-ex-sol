@@ -1,2 +1,0 @@
-cargo:rerun-if-env-changed=CAIRO_ARCHIVE
-cargo:rustc-env=SCARB_CORE_PATH=/home/manuareraa/Downloads/starklings-cairo1/target/release/build/scarb-ca363e752fe17ef0/out/core-bf91adecc5a1cb2ced041ba383d7b7c38dd2fa7f

@@ -1,9 +1,0 @@
-cargo:rerun-if-changed=../../.git/index
-cargo:rustc-env=SCARB_COMMIT_HASH=7eb2819a2a2ad5ce8d1c3f760e3274a2ea576e60
-cargo:rustc-env=SCARB_COMMIT_SHORT_HASH=7eb2819a2
-cargo:rustc-env=SCARB_COMMIT_DATE=2023-10-27
-cargo:rerun-if-changed=../../Cargo.lock
-cargo:rustc-env=SCARB_CAIRO_VERSION=2.3.0
-cargo:rustc-env=SCARB_CAIRO_COMMIT_HASH=bf91adecc5a1cb2ced041ba383d7b7c38dd2fa7f
-cargo:rustc-env=SCARB_CAIRO_SHORT_COMMIT_HASH=bf91adecc
-cargo:rustc-env=SCARB_CAIRO_COMMIT_REV=bf91adecc5a1cb2ced041ba383d7b7c38dd2fa7f
